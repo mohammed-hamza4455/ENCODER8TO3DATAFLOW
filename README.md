@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+# EXP5:ENCODER 8-3 DATA FLOW MODELLING
+## NAME:MOHAMMED HAMZA 
+## REGISTRATION NUMBER:24900511
 
 **AIM:**
 
@@ -39,6 +41,7 @@ Figure 02  Encoder 8 * 3
 /* write all the steps invloved */
 
 **PROGRAM**
+![ENCODER CODE](https://github.com/user-attachments/assets/e35210a3-8c37-4a6c-a7e3-5d93d19ed40f)
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
@@ -46,10 +49,12 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![ENCODER DIAGRAM](https://github.com/user-attachments/assets/b2032391-0cd8-4cd0-8239-506d6d7b3580)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
+![ENCODER WAVEFORM](https://github.com/user-attachments/assets/b4316ce0-3312-4373-bdf2-b4cac7649027)
 
 
 
